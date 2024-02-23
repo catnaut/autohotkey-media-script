@@ -19,6 +19,7 @@
 
 使用 `Alt+ 静音键` 切换
 
+参考 [【小工具】自定义键盘快捷键切换音频播放设备、快速开关切换静音_win10声音播放切换小工具-CSDN博客](https://blog.csdn.net/Mr_Zing/article/details/111988451)
 
 ### 视频全局暂停
 
